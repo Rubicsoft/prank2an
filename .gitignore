@@ -1,0 +1,12 @@
+# Binary files
+*.exe
+*.o
+
+# Build folder
+/Build
+
+# Assets folder
+/Images
+
+# Visual studio code config
+/.vscode
