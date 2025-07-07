@@ -15,7 +15,7 @@ RAYLIB_LIB := raylib-5.5_win64_mingw-w64/lib
 LINK_FLAGS := -lraylib -lgdi32 -lwinmm
 
 BUILD_DIR := Build
-OUT := bruh.exe
+OUT := Flappy\ Bird\ Game.exe
 
 
 all:
