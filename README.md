@@ -2,6 +2,8 @@
 
 Just for fun 😁
 
+Library used : [Raylib](https://www.raylib.com/)
+
 ## Cloning
 
 Use `git lfs` to clone this repository, otherwise the LFS files won't be cloned.
@@ -16,6 +18,14 @@ Additional note : `.a`, `.dll`, `.png`, `.jpg` are considered as LFS files.
 
 Just type `make` in the command line and the repository will compile and generate the binary in the `Build/` directory.
 
+### Does this program contain virus?
+
+There is no virus in this program and it won't harm your computer anyway. It's just a rendering framework (using [raylib](https://www.raylib.com/)). I made this program in Windows laptop and my laptop is still running good. In some cases, Windows Defender can sometimes consider this program as a virus and automatically delete it.
+
+**TIPS** : Add this repository folder path to the Windows Defender exclusion settings if considered as a virus
+
+I'm not a hackerman though, so I have no idea about it 🗿
+
 ## Follow me, if u bored
 
 <a href="https://x.com/reymo_je"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="32" height="32" alt="X"/></a> 
@@ -25,3 +35,5 @@ Just type `make` in the command line and the repository will compile and generat
 <a href="https://www.threads.net/@reymo_je_xefron"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" width="32" height="32" alt="Threads"/></a>
 
 *Created by **Reymo Je***
+
+`July 7, 2025`
