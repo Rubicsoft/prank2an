@@ -27,6 +27,9 @@ all:
 	$(LINK_FLAGS) \
 	$(WINFLAG)
 
+run: all
+	$(BUILD_DIR)/$(OUT)
+
 clean:
 	rm -rf $(BUILD_DIR)/$(OUT)
 

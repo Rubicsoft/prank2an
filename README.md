@@ -8,7 +8,7 @@ Library used : [Raylib](https://www.raylib.com/)
 
 Use `git lfs` to clone this repository, otherwise the LFS files won't be cloned.
 
-Additional note : `.a`, `.dll`, `.png`, `.jpg` are considered as LFS files.
+**Additional Note** : `.a`, `.dll`, `.png`, `.jpg` are considered as LFS files.
 
 ## Compiling
 
@@ -17,6 +17,8 @@ Additional note : `.a`, `.dll`, `.png`, `.jpg` are considered as LFS files.
 `w64devkit` is required to build. You can download it [here](https://github.com/skeeto/w64devkit), and then install it.
 
 Just type `make` in the command line and the repository will compile and generate the binary in the `Build/` directory.
+
+**Additional Command** : `make run` will compile and run immediately, `make clean` will erase the compiled binary
 
 ### Does this program contain virus?
 
